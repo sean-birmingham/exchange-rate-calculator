@@ -7,3 +7,5 @@ Select countries to get the exchange rate for a specific amount
 - Display the values for both countries
 - Update values on amount change
 - Swap country rates
+
+Project inspired from 20 Web Projects With Vanilla JavaScript by Brad Traversy 😃
